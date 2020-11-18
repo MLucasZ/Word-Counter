@@ -24,9 +24,6 @@ test.txt
 * v0.3.cpp为完成扩展功能源代码（字符数，单词数，句子数，行数） 
 
 #### 例程运行
-测试文本：
-
-Many of the congratulatory messages were accompanied by public statements noting the good relations and alliances with the US and the enthusiasm at the prospect of working together on issues of joint and global concern.
-These included the leaders of the UK, most of Europe, governments in Asia, the Middle East, Africa and America.
+[测试文本](https://github.com/MLucasZ/Word-Counter/blob/main/test.txt)
 
 ![Image text](https://raw.githubusercontent.com/MLucasZ/Word-Counter/main/test.jpg)
