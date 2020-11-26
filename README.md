@@ -26,4 +26,4 @@ test.txt
 #### 例程运行
 [测试文本](https://github.com/MLucasZ/Word-Counter/blob/main/test.txt)
 
-![Image text](https://raw.githubusercontent.com/MLucasZ/Word-Counter/main/test.jpg)
+![测试结果](https://raw.githubusercontent.com/MLucasZ/Word-Counter/main/test.jpg)
